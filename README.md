@@ -1,5 +1,3 @@
-Author: Renzil Dourado (rd9012@rit.edu)
-===============================================================================================================================
 # Datagram-Packet-Analyzer
 This project analyzes the hex dump of a datagram packet and outputs the detailed IP and TCP, UDP or ICMP headers.
 This code is written using Java version 8
