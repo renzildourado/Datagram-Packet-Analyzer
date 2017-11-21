@@ -14,6 +14,7 @@ Steps to run the code:
 
 	For example,     java Pktanalyzer "C:\new_tcp_packet1.bin"
 	Another example, java Pktanalyzer "C:\Users\Renzil Dourado\Downloads\new_tcp_packet1.bin"
+	Sample input packets are provided  in the "Input packets" folder
 	
 	If the bin file is in the same directory as the java file, you just need to specify the filename.
 	For example,    java Pktanalyzer "new_tcp_packet1.bin"
@@ -21,4 +22,3 @@ Steps to run the code:
 5. This code takes the first argument as the path of the .bin file to be analyzed
 	
 6. The path should be specified in quotes so that the code does not blow up if there is a space in the file path like in the second example "Renzil Dourado"
-	
