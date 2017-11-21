@@ -17,9 +17,6 @@ import java.net.UnknownHostException;
  * @author Renzil Dourado (rd9012)
  */
 
-//dskfvdsfgv
-
-
 public class Pktanalyzer {
 
     /**
