@@ -3,7 +3,7 @@ This project analyzes the hex dump of a datagram packet and outputs the detailed
 This code is written using Java version 8
 
 Steps to run the code:
-===============================================================================================================================
+
 1. Store the java file in any directory 
 
 2. Open command prompt in that same directory
